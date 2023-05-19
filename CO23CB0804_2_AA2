@@ -1,0 +1,10 @@
+<script>
+   
+    var score = 50
+    var result = score >= 40 ? "Pass" : "Fail";
+    document.write("The result is : "+ result);
+
+
+
+
+</script>
